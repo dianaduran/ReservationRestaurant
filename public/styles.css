@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Tajawal|Trochut');
+body {
+    font-family: 'Lato', sans-serif;
+    background: url("http://story154.com/wp-content/uploads/2015/08/Happyhappyjoyjoy-3-e1440485981740.jpg") center no-repeat;
+}
+
+.jumbotron h1 {
+    color: #3D0D02;
+    font-size: 85px;
+    font-family: 'Trochut', cursive;
+}
+
+.jumbotron {
+    background-color: rgba(249, 240, 228, .5);
+}
+
+.btn {
+    color: #f8d08b !important;
+    background-color: #7e735f;
+    border-color: #755c32;
+}
+
+.panel-default {
+    background-color: rgba(78, 52, 19, .3);
+    font-family: 'Tajawal', sans-serif;
+}
+
+.panel-heading {
+    color: #f6eee1 !important;
+    background-color: rgba(78, 52, 19, .3) !important;
+    border-bottom: 1px solid #755c32 !important;
+}
+
+a {
+    color: whitesmoke;
+}
